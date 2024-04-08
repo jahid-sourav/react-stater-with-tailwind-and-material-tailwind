@@ -13,19 +13,17 @@ This is a React starter template equipped with several popular libraries and too
 
 ## How to Use
 
-1. Clone the repository:
+1.  Clone the repository:
 
 ```bash
 git clone https://github.com/jahid-sourav/react-starter-with-tailwind-and-material-tailwind.git
-
-01. Install dependencies:
-npm install
-
-02. Run the development server:
-npm run dev
-
-03. Build the project:
-npm run build
-
-
 ```
+
+2.  Install dependencies:
+    npm install
+
+3.  Run the development server:
+    npm run dev
+
+4.  Build the project:
+    npm run build
